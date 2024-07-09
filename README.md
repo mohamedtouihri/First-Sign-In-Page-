@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 ### Prerequisites
-- Visual Studio Code
+- Download Visual Studio Code : [https://code.visualstudio.com/Download]
 - Live Server extension for Visual Studio Code (optional but recommended)
 
 ### Step-by-Step Setup
@@ -33,8 +33,7 @@
 
 ## Project Description
 
-This project is a simple web Page that allows users to change the background color of a web page by clicking a button. It is implemented using HTML and CSS.
-
+The Sign In Web Page Project is a straightforward login interface created with HTML and CSS.
 
 <h3 align="left">🛠 Language and tools</h3>
 
